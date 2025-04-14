@@ -4,4 +4,4 @@ Some description!
 
 This is a new class
 
-## class
+Andjis class
